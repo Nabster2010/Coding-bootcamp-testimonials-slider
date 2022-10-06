@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [live site]()
+- Solution URL: [github repo](https://github.com/Nabster2010/Coding-bootcamp-testimonials-slider)
+- Live Site URL: [live site](https://gentle-kheer-d3b629.netlify.app/)
 
 ### Built with
 
